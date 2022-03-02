@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{9C92E732-FF9F-4063-8FCA-34D8997647C2}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gyuudon.cs">
     <Files>
-      <File FileName="README.md" Line="1" Column="17" />
-      <File FileName="Program.cs" Line="3" Column="13" />
+      <File FileName="README.md" Line="1" Column="1" />
       <File FileName="Gyuudon.cs" Line="12" Column="25" />
     </Files>
     <Pads>
@@ -10,7 +9,7 @@
         <State name="__root__">
           <Node name="gyuudon" expanded="True">
             <Node name="gyuudon" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Gyuudon.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,1 +1,1 @@
-# Gyuudon (牛肉丼) 
+# Gyuudon (牛丼) 
