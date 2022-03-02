@@ -4,12 +4,12 @@ using Microsoft.Xna.Framework.Input;
 
 namespace gyuudon
 {
-    public class Game1 : Game
+    public class Gyuudon : Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
-        public Game1()
+        public Gyuudon()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";

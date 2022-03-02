@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9C92E732-FF9F-4063-8FCA-34D8997647C2}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="README.md" Line="1" Column="17" />
+      <File FileName="Program.cs" Line="3" Column="13" />
+      <File FileName="Gyuudon.cs" Line="12" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gyuudon" expanded="True">
+            <Node name="gyuudon" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.gyuudon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
