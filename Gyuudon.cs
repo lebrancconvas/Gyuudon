@@ -9,6 +9,9 @@ namespace gyuudon
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        private Texture2D _texture;
+        private Vector2 _position;
+
         public Gyuudon()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -28,6 +31,8 @@ namespace gyuudon
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            _texture = Content.Load<Texture2D>("Red_Bubble");
+            _position = new Vector2(0, 0);
         }
 
         protected override void Update(GameTime gameTime)
@@ -45,6 +50,9 @@ namespace gyuudon
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            SpriteBatch.Begin();
+            SpriteBatch.Draw(_texture, _position, Color.Red);
+            SpriteBatch.End();
 
             base.Draw(gameTime);
         }

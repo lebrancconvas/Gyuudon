@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{9C92E732-FF9F-4063-8FCA-34D8997647C2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Gyuudon.cs">
     <Files>
-      <File FileName="Gyuudon.cs" Line="10" Column="42" />
+      <File FileName="Gyuudon.cs" Line="54" Column="62" />
+      <File FileName="Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
